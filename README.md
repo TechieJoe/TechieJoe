@@ -20,7 +20,7 @@ I build clean, modular APIs and backend systems with a focus on authentication, 
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **NDT Certificate Automation (CCIMS)** | Web-based system that automates inspection certificate generation with custom branding, templates, and PDF export | NestJS, TypeScript, MongoDB, Puppeteer | [Repo](https://github.com/TechieJoe/CCIMS) |
+| **NDT Certificate Automation ** | Web-based system that automates inspection certificate generation with custom branding, templates, and PDF export | NestJS, TypeScript, MongoDB, Puppeteer | [Repo](https://github.com/TechieJoe/CCIMS) |
 | **Laundromart** | Microservices-based laundry platform with Auth, Order & Notification services + Paystack payments | NestJS, PostgreSQL, JWT, TCP, Paystack | [Repo](https://github.com/TechieJoe/landromart-app) |
 | **Task Management System** | Full task manager with authentication, prioritization, and calendar views | NestJS, MongoDB, JWT | [Repo](https://github.com/TechieJoe/Task-manager) |
 | **ChatterBox** | Real-time messaging app with online presence and message deletion | NestJS, Socket.IO | [Repo](https://github.com/TechieJoe/chatterBox) |
